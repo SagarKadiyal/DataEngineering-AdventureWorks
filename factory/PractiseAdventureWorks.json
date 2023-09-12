@@ -1,0 +1,9 @@
+{
+	"name": "PractiseAdventureWorks",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edd90d3c-a9fd-42b1-98ff-521598ce15ff",
+		"tenantId": "650f5882-90c1-4e7b-b926-0bd75e8270cb"
+	}
+}
